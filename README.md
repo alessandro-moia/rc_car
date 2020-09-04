@@ -1,2 +1,2 @@
 # rc_car
-ROS WS of remotely controlled car
+catkin_ws/src of remotely controlled car
